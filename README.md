@@ -6,6 +6,8 @@ Bitcoin and Cryptocurrency Technologies by Princeton University on coursera http
 
 
 Books
-Bitcoin and Cryptocurrency Technologies http://bitcoinbook.cs.princeton.edu/ 
+
+Bitcoin and Cryptocurrency Technologies http://bitcoinbook.cs.princeton.edu/
+
 区块链：技术驱动金融 https://book.douban.com/subject/26860970/
 
