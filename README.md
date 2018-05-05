@@ -13,6 +13,10 @@ Bitcoin and Cryptocurrency Technologies http://bitcoinbook.cs.princeton.edu/
 
 
 
-Articles：
+Articles
+
+Bitcoin WhitePaper (EN) https://bitcoin.org/bitcoin.pdf
+
+比特币白皮书（中文版）http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
 
 A Practical Introduction to Blockchain with Python http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/ 
