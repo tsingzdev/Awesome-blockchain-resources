@@ -1,6 +1,8 @@
 # Useful-blockchain-resources
 
-A collecton of blockchain learning and practicing materials, including online classes, books and articles, under continuous update
+A collecton of blockchain learning and practicing materials, including online classes, books and articles, under continuous update.
+
+
 
 ## MOOC
 
