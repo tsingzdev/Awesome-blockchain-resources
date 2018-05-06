@@ -1,11 +1,13 @@
 # Useful-blockchain-resources
 
-MOOC
+A collecton of blockchain learning and practicing materials, including online classes, books and articles, under continuous update
 
-[Bitcoin and Cryptocurrency Technologies by Princeton University on coursera](https://www.coursera.org/learn/cryptocurrency/home/welcome) 
+## MOOC
+
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome) by Princeton University on coursera
 
 
-Books
+## Books
 
 [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 
@@ -13,7 +15,7 @@ Books
 
 
 
-Articles
+## Articles
 
 [Bitcoin WhitePaper](https://bitcoin.org/bitcoin.pdf) / [比特币白皮书（中文版)](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
 
