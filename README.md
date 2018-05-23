@@ -1,4 +1,4 @@
-# Useful-blockchain-resources
+# Awesome-blockchain-materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collecton of blockchain learning and practicing materials, including online classes, books and articles, under continuous update.
 
