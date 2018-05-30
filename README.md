@@ -1,4 +1,4 @@
-# Awesome-blockchain-materials ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome-blockchain-resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A collecton of blockchain learning and practicing materials, including online classes, books and articles, under continuous update.
 
@@ -22,3 +22,5 @@ A collecton of blockchain learning and practicing materials, including online cl
 [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) 
 
 
+## Platforms
+[Ethereum]https://github.com/ethereum 
