@@ -5,7 +5,7 @@ A collecton of blockchain learning and practicing materials, including online cl
 
 
 ## MOOC
-
+[CS 251: Cryptocurrencies and Blockchain Technologies] (https://cs251.stanford.edu/) by Stanford
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/home/welcome) by Princeton University on coursera
 
 
