@@ -18,7 +18,7 @@ A collecton of blockchain learning and practicing materials, including online cl
 
 ## Articles
 
-[Bitcoin WhitePaper](https://bitcoin.org/bitcoin.pdf) / 【Chinase Verson】[比特币白皮书](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)
+[Bitcoin WhitePaper](https://bitcoin.org/bitcoin.pdf) / 【Chinase Verson】[比特币白皮书](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)
 
 [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/) 
 
